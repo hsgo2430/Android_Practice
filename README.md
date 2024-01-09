@@ -1,2 +1,2 @@
-# retrofitPratice
-레트로핏 연습
+# Android_Practice
+안드로이드 연습
